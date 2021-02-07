@@ -1,0 +1,23 @@
+{
+  "name": "go-wild",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A collection of go modules based on popular packages written in different languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJHenry/go-wild.git"
+  },
+  "keywords": [
+    "go"
+  ],
+  "author": "Andrew Henry <andrew.henry@pitt.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AJHenry/go-wild/issues"
+  },
+  "homepage": "https://github.com/AJHenry/go-wild#readme"
+}
