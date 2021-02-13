@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="./resources/images/logo.svg" alt="Markdownify" height="100"></a>
+  <img src="./resources/images/logo.svg" alt="go-wild" height="100">
 </h1>
 
 <h3 align="center">A collection of go modules based on popular packages written in different languages (mostly JS)</h3><br/>
@@ -20,10 +20,9 @@
 </p> -->
 
 <p align="center">
-  <a href="#key-features">Packages</a> •
+  <a href="#packages">Packages</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#credits">Why</a> •
-  <a href="#related">Related</a> •
+  <a href="#why">Why</a> •
   <a href="#license">License</a>
 </p>
 
@@ -49,6 +48,12 @@ func main() {
     fmt.Println(find.Up(".git", find.Options{}))
 }
 ```
+
+## Why
+
+I want to learn golang and the easiest way I learn is through actually implementing code.
+
+Most of these libraries (if not all) certainly exist. I figured it would be easiest to implement already well known projects I've been using for awhile.
 
 ## License
 
